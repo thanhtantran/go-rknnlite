@@ -15,14 +15,14 @@ It should also work with other models in the RK35xx series supported by the RKNN
 
 To use in your Go project, get the library.
 ```
-go get github.com/swdee/go-rknnlite
+go get github.com/thanhtantran/go-rknnlite
 ```
 
 Or to try the examples clone the git code and data repositories.  
 ```
-git clone https://github.com/swdee/go-rknnlite.git
+git clone https://github.com/thanhtantran/go-rknnlite.git
 cd go-rknnlite/example
-git clone https://github.com/swdee/go-rknnlite-data.git data
+git clone https://github.com/thanhtantran/go-rknnlite-data.git data
 ```
 
 Then refer to the Readme files for each example to run on command line.
